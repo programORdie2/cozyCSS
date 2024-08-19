@@ -1,6 +1,6 @@
 {
     "name": "cozycss",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "CozyCSS is a lightweight CSS framework",
     "main": "index.css",
     "repository": {
