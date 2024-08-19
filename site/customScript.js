@@ -1,0 +1,1 @@
+setTimeout((()=>{addAllTooltips(),addAllDropdowns()}),1e3);export function onRouteDidUpdate({location:o,previousLocation:d}){addAllTooltips(),addAllDropdowns()}
