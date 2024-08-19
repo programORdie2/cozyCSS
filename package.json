@@ -1,0 +1,22 @@
+{
+    "name": "cozycss",
+    "version": "0.1.0",
+    "description": "CozyCSS is a lightweight CSS framework",
+    "main": "index.css",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/programordie2/cozycss.git"
+    },
+    "keywords": [
+      "css",
+      "framework",
+      "cozy",
+      "lightweight"
+    ],
+    "author": "programORdie",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/programordie2/cozycss/issues"
+    },
+    "homepage": "https://github.com/programordie2/cozycss#readme"
+  }
