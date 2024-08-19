@@ -10,7 +10,7 @@ CozyCSS is a CSS framework that provides a set of utilities to make front-end de
   
 
 ## Docs
-For information about installing, components and customizing CozyCSS, see the docs (commins soon, sorry!)
+For information about installing, components and customizing CozyCSS, see the [docs](https://programordie2.github.io/cozyCSS/).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
